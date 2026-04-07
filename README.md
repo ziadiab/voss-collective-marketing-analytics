@@ -51,7 +51,7 @@ How can we:
 
 ---
 
-# 🧠 Methodology
+# Methodology
 
 This project combines multiple analytical approaches:
 
